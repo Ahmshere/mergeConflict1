@@ -9,8 +9,5 @@
         <module name="TestMergeConflict" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="TestMergeConflict" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
