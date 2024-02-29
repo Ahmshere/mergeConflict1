@@ -1,6 +1,7 @@
 public class Myclass {
 
-    // my test in main branch
-
+    public  void testU(){
+        System.out.println("testb Branch");
+    }
 }
 
